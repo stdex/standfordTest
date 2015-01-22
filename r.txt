@@ -1,0 +1,5 @@
+java edu.stanford.nlp.parser.nndep.DependencyParser -trainFile <train path> -devFile <dev path> -embedFile <word embedding file> -embeddingSize <word embedding dimensionality> -model nndep.model.txt.gz
+http://nlp.stanford.edu/software/nndep.shtml
+
+http://ilk.uvt.nl/conll/#dataformat
+http://ilk.uvt.nl/conll/example.html
